@@ -23,3 +23,7 @@ CSS3
 ✔️ Improved understanding of HTML structure
 
 ✔️ Learned to use CSS for styling and alignment
+
+📸 Preview
+
+👉 [Add a screenshot or link to the live demo]
