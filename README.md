@@ -26,4 +26,4 @@ CSS3
 
 📸 Preview
 
-👉 [Add a screenshot or link to the live demo]
+👉 https://saturn-space.github.io/Digital-Card/
